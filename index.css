@@ -1,0 +1,9 @@
+#colorDiv {
+    height: 450px;
+    width: 450px;
+    border: black;  /* This did not work for some reason, div was still there, even tho you could not see it. */
+}
+
+#changeColor {
+    color: black;
+}
